@@ -1,0 +1,1 @@
+bash -c "echo '1' | sudo -S service cron start"
